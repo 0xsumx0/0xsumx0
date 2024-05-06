@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **react, nextjs, framer**
 
-- 📫 How to reach me **Pull request https://github.com/0xsumx0/0xsumx0**
-
 - ⚡ Fun fact **I ❤️ 🏓 🏊🏼‍♂️ 🧘🏼**
 
 <h2 align="left">My Stack</h2>
