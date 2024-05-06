@@ -15,12 +15,7 @@
 
 - ⚡ Fun fact **I ❤️ 🏓 🏊🏼‍♂️ 🧘🏼**
 
- - 🔭 I’m currently working on **Front End Development** - 🌱 I’m currently
-    learning **AI/ML** - 👯 I’m looking to collaborate on [React](NextJS) - 🤝
-    I’m looking for help with **GCP** - 💬 Ask me about **react, nextjs,
-    framer** - 📫 How to reach me **Pull request
-    https://github.com/0xsumx0/0xsumx0** - ⚡ Fun fact **I ❤️ 🏓 🏊🏼‍♂️ 🧘🏼**
-
+<h2 align="left">My Stack</h2>
     <h3 align="left">Programming Languages</h3>
     <hr />
     <p align="left">
