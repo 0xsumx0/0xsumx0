@@ -23,8 +23,7 @@
         src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript"
       />
-
-      <img
+     <img
         src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
         alt="typescript"
       />
@@ -34,7 +33,7 @@
       />
     </p>
 
-    <h3 align="left">Frontend Development</h3>
+<h3 align="left">Frontend Development</h3>
     <hr />
     <p align="left">
       <img
@@ -53,8 +52,7 @@
         src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"
         alt="zod"
       />
-
-      <img
+     <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="html5"
       />
